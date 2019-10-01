@@ -1,4 +1,4 @@
-# My learning path to Machine Learning
+# My learning path for Machine Learning
 
 ### Math
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
